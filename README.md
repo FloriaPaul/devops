@@ -1,3 +1,3 @@
-#devops
+# devops
 Software Engineering Methods
-![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/FloriaPaul/seMethods/master)
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/FloriaPaul/devops/master)
